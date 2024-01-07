@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>10/7/21</key>
+	<dict>
+		<key>Workouts</key>
+		<array>
+			<array>
+				<string>Squat</string>
+				<string>5</string>
+				<string>5</string>
+				<string>225 </string>
+				<string>No</string>
+			</array>
+		</array>
+		<key>Name</key>
+		<string>Lower Body Workout</string>
+	</dict>
+</dict>
+</plist>

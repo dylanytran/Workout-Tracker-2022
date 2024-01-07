@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+ADDatePicker in Pods, no dependencies
+Pods-Workout Tracker in Pods, depends on:
+ADDatePicker in Pods (explicit)
